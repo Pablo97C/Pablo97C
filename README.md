@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pablo97C
 - 👀 I’m interested in ... HTML, CSS and JS
-- 🌱 I’m currently learning ... JS, TS and node
+- 🌱 I’m currently learning ... PHP, JS, TS and node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... You can reach me through my email address
 
